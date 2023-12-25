@@ -1,0 +1,62 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-4b676561c51d1389db5d1bd669b8f0dc74169a6d/MyFiles/Downloads/Hsoub/Hsoub.html
+Subject: Hsoub Academy
+Date: Mon, 25 Dec 2023 15:44:51 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gUBd6LzZcbBk8Bjxh46SinrAfJOozjIMiv1iBD2MUP----"
+
+
+------MultipartBoundary--gUBd6LzZcbBk8Bjxh46SinrAfJOozjIMiv1iBD2MUP----
+Content-Type: text/html
+Content-ID: <frame-8E523AF68F61E9CA6A88217B1B22BA91@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-4b676561c51d1389db5d1bd669b8f0dc74169a6d/MyFiles/Downloads/Hsoub/Hsoub.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-581d936e-0572-49bb-943b-d186a4b9fe1f@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Hsoub Academy</title>
+   =20
+</head>
+
+<body>
+
+    <h1>Youtube</h1>
+
+    <label for=3D"username">Username:</label>
+    <input type=3D"text" id=3D"usernameInput" placeholder=3D"username">
+
+    <label for=3D"password">Password:</label>
+    <input type=3D"password" id=3D"passwordInput" placeholder=3D"password">
+
+    <button id=3D"loginButton">Log In</button>
+
+   =20
+
+
+
+</body></html>
+------MultipartBoundary--gUBd6LzZcbBk8Bjxh46SinrAfJOozjIMiv1iBD2MUP----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-581d936e-0572-49bb-943b-d186a4b9fe1f@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 20px; color: rgb(51, 51, 51)=
+; }
+
+h1 { color: rgb(255, 0, 0); }
+
+label, input { display: block; margin-bottom: 10px; }
+
+input { padding: 10px; font-size: 16px; }
+
+#loginButton { padding: 10px; font-size: 16px; background-color: rgb(248, 0=
+, 0); color: white; cursor: pointer; }
+------MultipartBoundary--gUBd6LzZcbBk8Bjxh46SinrAfJOozjIMiv1iBD2MUP------
